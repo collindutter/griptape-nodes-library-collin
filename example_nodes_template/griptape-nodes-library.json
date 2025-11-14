@@ -2,9 +2,9 @@
     "name": "Example Library",
     "library_schema_version": "0.1.0",
     "metadata": {
-        "author": "<Your-Name>",
-        "description": "<Your-Description>",
-        "library_version": "0.1.1",
+        "author": "Collin",
+        "description": "It's my library.",
+        "library_version": "0.1.2",
         "engine_version": "0.63.0",
         "tags": [
             "Griptape",
